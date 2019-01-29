@@ -1,0 +1,31 @@
+{
+  "name": "@samobraz/codecamp-bootstrap-theme",
+  "version": "1.0.1",
+  "description": "Codecamp bootstrap theme for artemis",
+  "repository": "https://github.com/codecamp/artemis-codecamp-bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "keywords": [
+    "bootstrap",
+    "themes"
+  ],
+  "author": "MRK08",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "*",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-scss-lint": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
